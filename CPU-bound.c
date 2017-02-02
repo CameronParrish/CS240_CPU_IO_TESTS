@@ -1,4 +1,5 @@
-/* Cameron Parrish CS240 Krings
+/* CPU-bound.c
+ * Cameron Parrish CS240 Krings
  * Due 02/03/2017
  * parr3147@vandals.uidaho.edu
  * Developed on OSX 10.12.3
